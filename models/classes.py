@@ -1,8 +1,8 @@
 CLASSES = {
-    0: "real",
-    1: "ai_video",
-    2: "faceswap",
-    3: "edited",
-    4: "voiceclone",
-    5: "audio_video_fake"
+    0: "ai_video",
+    1: "audio_video_fake",
+    2: "edited",
+    3: "faceswap",
+    4: "real",
+    5: "voiceclone",
 }
